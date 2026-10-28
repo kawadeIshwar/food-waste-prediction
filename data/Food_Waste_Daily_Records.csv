@@ -1,0 +1,121 @@
+Date,Day,Attendance,Exam_Day,Holiday_or_Low_Service,Menu_Type,Weather,Meals_Prepared,Food_Prepared_kg,Food_Consumed_kg,Food_Wasted_kg,Waste_Percentage,Predicted_Waste_kg,Prediction_Error_kg
+2026-01-05,Monday,316,No,No,Snacks,Cloudy,333,142.46,123.46,19.0,13.34,20.73,-1.73
+2026-01-06,Tuesday,324,No,No,South Indian,Rainy,366,151.54,121.24,30.3,20.0,30.38,-0.08
+2026-01-07,Wednesday,319,No,No,Snacks,Cloudy,366,136.12,109.87,26.24,19.28,27.16,-0.92
+2026-01-08,Thursday,345,No,No,South Indian,Sunny,366,146.94,132.15,14.79,10.07,19.23,-4.44
+2026-01-09,Friday,325,No,No,South Indian,Sunny,344,131.69,111.88,19.81,15.04,19.64,0.17
+2026-01-10,Saturday,168,No,No,Snacks,Cloudy,184,67.33,53.51,13.83,20.53,14.86,-1.03
+2026-01-11,Sunday,78,No,Yes,Chinese,Cloudy,86,33.64,24.12,9.52,28.29,9.16,0.36
+2026-01-12,Monday,400,No,No,Chinese,Cloudy,452,176.2,145.68,30.52,17.32,29.09,1.43
+2026-01-13,Tuesday,267,Yes,No,South Indian,Rainy,286,98.74,80.77,17.97,18.2,16.45,1.52
+2026-01-14,Wednesday,342,No,No,Snacks,Cloudy,375,154.97,123.16,31.81,20.53,30.45,1.36
+2026-01-15,Thursday,256,Yes,No,North Indian,Sunny,272,109.53,93.6,15.93,14.54,13.96,1.97
+2026-01-16,Friday,356,No,No,South Indian,Sunny,376,160.39,147.66,12.73,7.94,26.33,-13.6
+2026-01-17,Saturday,187,No,No,Snacks,Cloudy,206,75.09,57.73,17.35,23.11,16.19,1.16
+2026-01-18,Sunday,76,No,Yes,North Indian,Rainy,87,35.21,25.96,9.25,26.27,8.94,0.31
+2026-01-19,Monday,349,No,No,North Indian,Sunny,365,140.33,119.72,20.6,14.68,21.24,-0.64
+2026-01-20,Tuesday,241,Yes,No,Special Meal,Cloudy,262,103.01,90.44,12.58,12.21,14.54,-1.96
+2026-01-21,Wednesday,373,No,No,North Indian,Sunny,414,175.7,149.15,26.56,15.11,27.7,-1.14
+2026-01-22,Thursday,325,No,No,South Indian,Sunny,339,140.47,129.53,10.94,7.79,16.45,-5.51
+2026-01-23,Friday,289,No,No,Chinese,Sunny,327,132.58,110.54,22.03,16.62,19.8,2.23
+2026-01-24,Saturday,125,No,No,North Indian,Cloudy,136,56.4,48.81,7.59,13.45,9.18,-1.59
+2026-01-25,Sunday,60,No,Yes,Special Meal,Sunny,63,23.89,21.76,2.12,8.89,3.07,-0.95
+2026-01-26,Monday,366,No,No,Special Meal,Sunny,397,162.56,143.52,19.04,11.71,24.34,-5.3
+2026-01-27,Tuesday,336,Yes,No,Special Meal,Sunny,355,147.25,130.85,16.4,11.14,17.96,-1.56
+2026-01-28,Wednesday,313,No,No,North Indian,Cloudy,368,141.7,105.88,35.83,25.28,31.38,4.45
+2026-01-29,Thursday,363,No,No,Chinese,Sunny,403,162.2,139.98,22.22,13.7,22.75,-0.53
+2026-01-30,Friday,398,No,No,Chinese,Sunny,421,178.29,157.79,20.5,11.5,24.66,-4.16
+2026-01-31,Saturday,168,No,No,Special Meal,Sunny,196,67.08,53.64,13.44,20.03,13.34,0.1
+2026-02-01,Sunday,73,Yes,Yes,Special Meal,Cloudy,81,33.26,24.53,8.73,26.24,8.72,0.01
+2026-02-02,Monday,332,No,No,North Indian,Sunny,373,155.95,128.42,27.53,17.66,27.94,-0.41
+2026-02-03,Tuesday,407,No,No,Chinese,Rainy,449,162.68,132.83,29.84,18.35,30.06,-0.22
+2026-02-04,Wednesday,482,No,No,North Indian,Cloudy,511,211.67,179.42,32.25,15.24,39.67,-7.42
+2026-02-05,Thursday,378,No,No,North Indian,Sunny,399,136.42,112.96,23.46,17.2,22.18,1.28
+2026-02-06,Friday,328,Yes,No,South Indian,Sunny,364,152.43,130.69,21.73,14.26,23.63,-1.9
+2026-02-07,Saturday,178,Yes,No,Chinese,Sunny,186,69.49,63.19,6.3,9.07,10.67,-4.37
+2026-02-08,Sunday,61,No,Yes,Snacks,Rainy,72,29.68,21.23,8.45,28.46,6.8,1.65
+2026-02-09,Monday,355,No,No,South Indian,Sunny,412,157.24,124.49,32.75,20.83,30.5,2.25
+2026-02-10,Tuesday,344,No,No,South Indian,Sunny,369,137.67,118.74,18.93,13.75,22.29,-3.36
+2026-02-11,Wednesday,315,No,No,North Indian,Rainy,368,141.05,103.31,37.73,26.75,33.75,3.98
+2026-02-12,Thursday,378,No,No,Snacks,Sunny,427,156.25,127.78,28.48,18.22,28.71,-0.23
+2026-02-13,Friday,351,No,No,Chinese,Sunny,401,139.39,118.82,20.57,14.76,22.01,-1.44
+2026-02-14,Saturday,142,No,No,Chinese,Cloudy,163,69.3,56.58,12.72,18.35,14.82,-2.1
+2026-02-15,Sunday,116,Yes,No,Chinese,Sunny,129,52.73,41.19,11.54,21.88,9.43,2.11
+2026-02-16,Monday,335,No,No,North Indian,Sunny,353,140.92,122.05,18.87,13.39,18.38,0.49
+2026-02-17,Tuesday,404,No,No,Special Meal,Cloudy,435,162.16,142.74,19.42,11.98,24.79,-5.37
+2026-02-18,Wednesday,330,Yes,No,South Indian,Cloudy,369,156.55,131.43,25.12,16.04,30.02,-4.9
+2026-02-19,Thursday,415,No,No,Chinese,Rainy,438,182.45,162.17,20.28,11.12,43.05,-22.77
+2026-02-20,Friday,340,No,No,North Indian,Sunny,393,144.07,114.63,29.43,20.43,25.56,3.87
+2026-02-21,Saturday,168,No,No,Snacks,Sunny,198,82.99,58.94,24.05,28.98,13.84,10.21
+2026-02-22,Sunday,118,Yes,No,North Indian,Rainy,123,44.49,34.85,9.64,21.67,9.65,-0.01
+2026-02-23,Monday,295,Yes,No,North Indian,Sunny,309,121.91,111.43,10.48,8.6,15.21,-4.73
+2026-02-24,Tuesday,331,No,No,Snacks,Rainy,380,153.08,117.22,35.85,23.42,32.72,3.13
+2026-02-25,Wednesday,311,Yes,No,Chinese,Rainy,330,134.02,112.21,21.81,16.27,22.81,-1.0
+2026-02-26,Thursday,432,No,No,Chinese,Sunny,487,167.44,147.57,19.87,11.87,24.26,-4.39
+2026-02-27,Friday,260,Yes,No,Special Meal,Sunny,299,118.79,99.01,19.77,16.65,17.55,2.22
+2026-02-28,Saturday,146,No,No,Chinese,Cloudy,165,70.07,55.4,14.67,20.94,14.62,0.05
+2026-03-01,Sunday,77,No,Yes,North Indian,Sunny,85,33.57,26.58,7.0,20.84,8.22,-1.22
+2026-03-02,Monday,293,No,No,Chinese,Sunny,306,115.56,101.59,13.98,12.09,13.58,0.4
+2026-03-03,Tuesday,374,No,No,Chinese,Cloudy,423,155.86,130.39,25.47,16.34,26.37,-0.9
+2026-03-04,Wednesday,360,No,No,South Indian,Sunny,412,172.95,145.39,27.56,15.93,28.24,-0.68
+2026-03-05,Thursday,327,No,No,North Indian,Rainy,363,127.21,94.66,32.54,25.58,28.02,4.52
+2026-03-06,Friday,279,Yes,No,North Indian,Sunny,319,108.88,91.92,16.97,15.58,16.68,0.29
+2026-03-07,Saturday,177,No,No,Chinese,Sunny,193,82.27,70.9,11.37,13.82,12.42,-1.05
+2026-03-08,Sunday,115,No,No,South Indian,Cloudy,120,43.06,36.08,6.98,16.2,8.99,-2.01
+2026-03-09,Monday,364,Yes,No,South Indian,Rainy,429,151.33,115.33,36.0,23.79,34.67,1.33
+2026-03-10,Tuesday,300,Yes,No,South Indian,Sunny,320,134.92,116.48,18.44,13.67,18.52,-0.08
+2026-03-11,Wednesday,337,No,No,Chinese,Sunny,354,128.12,117.31,10.81,8.44,19.3,-8.49
+2026-03-12,Thursday,349,No,No,Snacks,Sunny,381,148.04,118.36,29.68,20.05,26.06,3.62
+2026-03-13,Friday,372,No,No,Snacks,Sunny,434,170.49,136.2,34.3,20.12,31.69,2.61
+2026-03-14,Saturday,142,No,No,North Indian,Sunny,166,65.86,46.78,19.09,28.98,16.64,2.45
+2026-03-15,Sunday,48,Yes,Yes,Chinese,Sunny,52,20.97,20.47,0.5,2.38,3.27,-2.77
+2026-03-16,Monday,412,No,No,Snacks,Rainy,470,200.54,155.84,44.7,22.29,43.83,0.87
+2026-03-17,Tuesday,365,Yes,No,South Indian,Cloudy,429,183.87,139.38,44.49,24.2,40.58,3.91
+2026-03-18,Wednesday,342,No,No,North Indian,Sunny,393,150.94,123.69,27.25,18.05,27.05,0.2
+2026-03-19,Thursday,381,No,No,Snacks,Sunny,426,175.59,142.99,32.6,18.57,29.63,2.97
+2026-03-20,Friday,219,Yes,No,North Indian,Cloudy,250,102.41,86.59,15.82,15.45,16.86,-1.04
+2026-03-21,Saturday,161,No,No,North Indian,Cloudy,187,63.66,49.8,13.86,21.77,15.08,-1.22
+2026-03-22,Sunday,54,Yes,Yes,Snacks,Sunny,63,23.12,17.88,5.23,22.63,3.19,2.04
+2026-03-23,Monday,352,No,No,North Indian,Sunny,383,154.96,128.68,26.28,16.96,26.83,-0.55
+2026-03-24,Tuesday,345,No,No,North Indian,Cloudy,407,164.05,127.18,36.87,22.48,33.56,3.31
+2026-03-25,Wednesday,437,No,No,North Indian,Sunny,459,164.4,138.68,25.73,15.65,26.47,-0.74
+2026-03-26,Thursday,410,No,No,South Indian,Rainy,470,182.68,140.33,42.35,23.18,44.24,-1.89
+2026-03-27,Friday,264,Yes,No,South Indian,Cloudy,296,118.05,98.98,19.07,16.15,18.64,0.43
+2026-03-28,Saturday,163,No,No,Special Meal,Sunny,182,74.85,62.47,12.38,16.54,13.39,-1.01
+2026-03-29,Sunday,141,No,No,Snacks,Rainy,162,57.78,38.95,18.83,32.59,16.36,2.47
+2026-03-30,Monday,342,No,No,South Indian,Sunny,357,152.22,132.87,19.35,12.71,19.21,0.14
+2026-03-31,Tuesday,263,Yes,No,South Indian,Sunny,275,96.26,82.73,13.53,14.06,13.23,0.3
+2026-04-01,Wednesday,321,No,No,North Indian,Sunny,353,120.07,98.35,21.73,18.09,20.92,0.81
+2026-04-02,Thursday,292,Yes,No,South Indian,Sunny,336,139.68,108.47,31.21,22.34,22.2,9.01
+2026-04-03,Friday,297,No,No,Chinese,Sunny,323,136.87,116.27,20.6,15.05,18.51,2.09
+2026-04-04,Saturday,156,No,No,North Indian,Sunny,182,62.03,44.27,17.76,28.64,14.74,3.02
+2026-04-05,Sunday,152,Yes,No,Chinese,Rainy,158,65.85,55.25,10.6,16.1,11.98,-1.38
+2026-04-06,Monday,322,No,No,North Indian,Rainy,355,139.98,113.13,26.85,19.18,22.6,4.25
+2026-04-07,Tuesday,395,No,No,Snacks,Cloudy,423,159.58,129.42,30.16,18.9,29.35,0.81
+2026-04-08,Wednesday,214,Yes,No,North Indian,Cloudy,244,99.18,77.49,21.69,21.87,18.04,3.65
+2026-04-09,Thursday,360,No,No,North Indian,Cloudy,383,147.71,131.41,16.29,11.03,22.73,-6.44
+2026-04-10,Friday,369,Yes,No,North Indian,Rainy,429,166.56,126.88,39.68,23.82,37.15,2.53
+2026-04-11,Saturday,98,Yes,No,Chinese,Rainy,102,40.15,31.16,8.98,22.38,9.56,-0.58
+2026-04-12,Sunday,127,No,No,South Indian,Cloudy,145,56.7,48.36,8.34,14.71,9.84,-1.5
+2026-04-13,Monday,369,No,No,North Indian,Cloudy,411,154.83,121.77,33.06,21.35,31.4,1.66
+2026-04-14,Tuesday,370,No,No,North Indian,Rainy,394,141.04,118.58,22.45,15.92,26.33,-3.88
+2026-04-15,Wednesday,271,No,No,Chinese,Rainy,296,114.41,101.98,12.44,10.87,14.82,-2.38
+2026-04-16,Thursday,425,No,No,North Indian,Rainy,494,203.44,145.39,58.05,28.53,44.79,13.26
+2026-04-17,Friday,345,No,No,Special Meal,Sunny,394,165.43,137.16,28.27,17.09,26.72,1.55
+2026-04-18,Saturday,176,No,No,South Indian,Cloudy,206,78.71,59.32,19.39,24.63,16.77,2.62
+2026-04-19,Sunday,79,No,Yes,South Indian,Rainy,85,29.66,24.3,5.36,18.07,8.39,-3.03
+2026-04-20,Monday,394,No,No,North Indian,Sunny,436,158.42,127.55,30.87,19.49,30.56,0.31
+2026-04-21,Tuesday,362,No,No,South Indian,Sunny,389,142.58,126.07,16.51,11.58,19.74,-3.23
+2026-04-22,Wednesday,399,No,No,Special Meal,Rainy,419,147.66,128.89,18.77,12.71,28.14,-9.37
+2026-04-23,Thursday,246,Yes,No,South Indian,Sunny,265,93.92,84.72,9.2,9.8,11.91,-2.71
+2026-04-24,Friday,380,No,No,South Indian,Sunny,436,178.55,142.57,35.98,20.15,30.78,5.2
+2026-04-25,Saturday,149,No,No,North Indian,Sunny,173,61.61,45.53,16.09,26.11,15.85,0.24
+2026-04-26,Sunday,183,No,No,Special Meal,Sunny,204,73.92,61.37,12.55,16.98,13.18,-0.63
+2026-04-27,Monday,365,No,No,Snacks,Sunny,405,157.01,126.77,30.24,19.26,29.55,0.69
+2026-04-28,Tuesday,360,No,No,Special Meal,Sunny,422,149.69,125.43,24.27,16.21,25.04,-0.77
+2026-04-29,Wednesday,399,No,No,North Indian,Rainy,433,170.92,136.85,34.07,19.93,34.02,0.05
+2026-04-30,Thursday,374,No,No,Special Meal,Cloudy,428,163.58,132.46,31.12,19.03,28.99,2.13
+2026-05-01,Friday,330,No,No,South Indian,Cloudy,372,151.62,124.79,26.83,17.69,28.13,-1.3
+2026-05-02,Saturday,129,No,No,Chinese,Sunny,152,55.52,39.76,15.77,28.4,13.03,2.74
+2026-05-03,Sunday,65,No,Yes,Special Meal,Sunny,74,28.23,26.32,1.91,6.78,4.32,-2.41
+2026-05-04,Monday,379,No,No,South Indian,Sunny,430,178.94,144.09,34.85,19.48,32.77,2.08

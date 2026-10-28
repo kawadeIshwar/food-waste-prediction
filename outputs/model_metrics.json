@@ -1,0 +1,10 @@
+{
+  "algorithm": "Random Forest Regressor",
+  "records": 120,
+  "training_records": 96,
+  "test_records": 24,
+  "MAE_kg": 4.459,
+  "RMSE_kg": 6.781,
+  "R2_score": 0.432,
+  "data_note": "Simulated academic demonstration data; not real canteen measurements."
+}
